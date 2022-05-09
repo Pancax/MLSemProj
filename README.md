@@ -6,6 +6,7 @@ cd webapp_js/
 python main.py
 
 #Direct to app
+
 http://localhost:5000
 
 
@@ -13,8 +14,11 @@ http://localhost:5000
 ctrl+c to stop the server
 
 cd webapp_mjs/
+
 python main.py
+
 #direct to app
+
 http://localhost:5000
 
 
