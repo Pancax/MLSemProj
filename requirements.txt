@@ -1,0 +1,5 @@
+nltk
+flask
+flask_cors
+pickle_mixin
+flask_restful
